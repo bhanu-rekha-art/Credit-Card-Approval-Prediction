@@ -1,5 +1,5 @@
 # Credit Card Approval Prediction
-[Project Demo](https://drive.google.com/file/d/109f3eTbUY6i5Ycdre18hdL1hUqrY9jz4/view?usp=sharing)
+[Video Demo](https://drive.google.com/file/d/109f3eTbUY6i5Ycdre18hdL1hUqrY9jz4/view?usp=sharing)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-brightgreen)](https://credit-card-approval-prediction-ra22.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.1.2-lightgrey)](https://flask.palletsprojects.com)
